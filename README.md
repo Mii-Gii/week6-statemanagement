@@ -1,16 +1,22 @@
-# week6
+# Exercise 6 - Week 6
 
-A new Flutter project.
+State Management in Flutter
 
-## Getting Started
+## Student Information
 
-This project is a starting point for a Flutter application.
+Student Name: Miguel Edward Bacolor
 
-A few resources to get you started if this is your first Flutter project:
+Student Number: 2020-12012
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Section: UV - 5L
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Description
+
+Using a provider, handling state management.
+
+## Things Done
+
+Added checkout feature based on the catalogue and cart files from the laboratory handout.
+
+## Challenges
+
